@@ -12,6 +12,7 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="do_not_remove" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="wsgi" type="PLAIN_TEXT" />
     </extensionMap>

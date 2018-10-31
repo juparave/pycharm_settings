@@ -1,0 +1,40 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/workspace/python/AtesaPil/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/Cesarfer/WebStore/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/Cesarfer/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/Chofero/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/Fortan/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/FortanBiz/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/MasterShop/tg2.3.4env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/UnoLoad/tg2.3.12env/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/workspace/python/AtesaPil/tg2.3.12env/bin/python" value="true" />
+        <entry key="$USER_HOME$/workspace/python/Cesarfer/WebStore/tg2.3.12env/bin/python" value="true" />
+        <entry key="$USER_HOME$/workspace/python/Cesarfer/tg2.3.12env/bin/python" value="true" />
+        <entry key="$USER_HOME$/workspace/python/Chofero/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/Fortan/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/FortanBiz/tg2.3.12env/bin/python" value="true" />
+        <entry key="$USER_HOME$/workspace/python/MasterShop/tg2.3.4env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/UnoLoad/tg2.3.12env/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/workspace/python/AtesaPil/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/Cesarfer/WebStore/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/Cesarfer/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/Chofero/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/Fortan/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/FortanBiz/tg2.3.12env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/MasterShop/tg2.3.4env/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/python/UnoLoad/tg2.3.12env/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
